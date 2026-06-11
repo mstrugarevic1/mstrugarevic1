@@ -1,78 +1,40 @@
 <div align="center">
-  <img src="./miro.png" alt="Miroslav illustration" width="360">
+  <img src="./miro.png" alt="Miroslav illustration" width="320">
 
-  # Hi, I'm Miroslav 👋😊
+  # Miroslav
 
-  **DevOps / Platform Engineering | Kubernetes | Cloud Infrastructure | Automation**
+  **Senior DevOps / Platform Engineer**
 </div>
 
-## About Me
+## About
 
-I'm a DevOps and Platform Engineering practitioner with a background in cloud infrastructure, Linux systems, Kubernetes, CI/CD, automation, and operational reliability.
+Senior DevOps / Platform Engineer with 10+ years of experience across AWS, Kubernetes, Linux, CI/CD, infrastructure automation, and production operations.
 
-I enjoy building systems that are easy to understand, repeatable, and practical to operate. My work usually sits somewhere between infrastructure as code, deployment automation, monitoring, incident readiness, and helping teams reduce manual work.
+I focus on building reliable, understandable systems: automated infrastructure, maintainable delivery pipelines, practical observability, and operational workflows that help teams ship and recover with less friction.
 
-I care about simple architecture, clear documentation, reliable delivery pipelines, and tools that make everyday engineering work smoother.
-
-## What I'm Working On
-
-- Kubernetes tooling for visibility into running workloads and container images.
-- Cloud infrastructure examples using Terraform, Ansible, and Azure.
-- Jenkins recovery automation with Jenkins Configuration as Code, Terraform, Azure Key Vault, Blob Storage, and Managed Identity.
-- HAProxy traffic management labs for canary releases, health checks, runtime traffic shifting, and rollback.
-- Practical DevOps notes, checklists, and reusable templates for platform operations.
-
-## What I'm Trying To Work On
-
-I'm currently growing deeper in:
+## Focus Areas
 
 - Kubernetes platform engineering and production operations.
-- GitOps, policy-as-code, and secure delivery workflows.
-- Cloud migration planning, reliability, and disaster recovery.
-- Observability practices that help teams debug real incidents faster.
-- Developer tooling that removes repetitive operational work.
-- Better mentoring material for people learning DevOps, Kubernetes, and cloud infrastructure.
+- AWS and cloud infrastructure automation.
+- CI/CD design, Jenkins automation, and deployment workflows.
+- Linux systems, troubleshooting, and operational reliability.
+- Infrastructure as code with Terraform and Ansible.
+- Observability, incident readiness, and recovery planning.
 
-## Background
+## Featured Work
 
-My background is centered around practical infrastructure and operations work: taking real systems, making them more automated, more visible, and easier to recover when something breaks.
-
-I like hands-on projects because they force the important questions:
-
-- Can this be deployed again from scratch?
-- Can someone else understand how it works?
-- Can we recover it without guessing?
-- Can we see what is happening when it fails?
-- Can we make the next change with less risk?
-
-## Hobbies And Interests
-
-Outside of project work, I enjoy learning by building labs, improving my technical notes, exploring better workflows, and turning messy operational problems into clear repeatable steps.
-
-I also enjoy mentoring, sharing what I learn, and helping others get more comfortable with Linux, cloud, Kubernetes, DevOps practices, and troubleshooting.
-
-## Featured Projects
-
-- **Kubernetes Image Inventory**: A Python CLI and web tool for inspecting Kubernetes workloads and reporting container images across a cluster.
-- **Cloud Infrastructure Portfolio**: Infrastructure-as-code examples, automation notes, CI/CD standards, observability checklists, and cloud migration material.
-- **Azure Jenkins Controller Recovery POC**: Automated recovery of a Jenkins controller on Azure using Terraform, JCasC, Docker, Key Vault, and Blob Storage.
-- **HAProxy Canary Lab**: A hands-on lab for weighted traffic shifting, active health checks, canary releases, and rollback using HAProxy.
-- **Kubernetes Examples**: Practical Kubernetes manifests and policy examples for learning and experimentation.
+- [k8s-examples](https://github.com/strugi032/k8s-examples) — Kubernetes manifests, policies, deployment patterns and practical cluster examples.
+- [cloud](https://github.com/strugi032/cloud) — Cloud infrastructure notes, examples and automation patterns.
+- [kube-image-inventory](https://github.com/strugi032/kube-image-inventory) — Python tool for inspecting container images across Kubernetes workloads.
+- [haproxy-canary-lab](https://github.com/strugi032/haproxy-canary-lab) — HAProxy-based canary deployment lab.
 
 ## Availability
 
-I'm available for:
+Available for Senior DevOps, Platform Engineering, SRE roles and selected consulting projects.
 
-- Online mentoring.
-- Freelance arrangements.
-- Consulting work.
-- Full-time DevOps, Platform Engineering, Cloud Engineering, or Site Reliability Engineering roles.
-
-I can help with Kubernetes, CI/CD, Terraform, Ansible, Azure infrastructure, Jenkins automation, observability, incident readiness, technical documentation, and practical DevOps mentoring.
+Areas where I can help: Kubernetes, AWS, CI/CD, Terraform, Ansible, Linux operations, Jenkins automation, observability, production readiness, and practical DevOps mentoring.
 
 ## Contact
 
-The best way to reach me is by email:
-
-📧 [email@email.com](mailto:email@email.com)
+📧 strugi032@icloud.com
 
