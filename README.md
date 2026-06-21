@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./miro.png" alt="Miroslav illustration" width="320">
+  <img src="./miro.jpeg">
 
   # Miroslav
 
