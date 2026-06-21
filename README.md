@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./miro.jpeg">
+  <img src="./miro.jpeg" alt="Miroslav profile photo" width="320">
 
   # Miroslav
 
@@ -37,4 +37,3 @@ Areas where I can help: Kubernetes, AWS, CI/CD, Terraform, Ansible, Linux operat
 ## Contact
 
 📧 strugi032@icloud.com
-
