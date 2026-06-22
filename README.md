@@ -1,18 +1,18 @@
 <div align="center">
   <img src="./miro.jpeg" alt="Miroslav profile photo" width="320">
 
-  # Miroslav
+  # Hi, I'm Miroslav
 
-  **Senior DevOps / Platform Engineer**
+  **Senior DevOps / Platform Engineer**<br>
 
-  [Email me](mailto:strugi032@icloud.com) · [Explore my work](#featured-work)
+  [📧 Email me](mailto:strugi032@icloud.com) · [Explore my work](#selected-work)
 </div>
 
-## About
+## About me
 
-Senior DevOps / Platform Engineer with 15+ years of experience in Linux, infrastructure, and production operations, including 10+ years focused on cloud platforms, DevOps, automation, and Kubernetes.
+Senior DevOps / Platform Engineer with 10+ years of experience across AWS, Kubernetes, Linux, CI/CD, infrastructure automation, and production operations.
 
-My background covers both traditional infrastructure and modern cloud-native environments, with experience in production support, platform modernization, CI/CD, troubleshooting, and collaboration across engineering teams.
+I enjoy turning complex infrastructure into reliable, understandable systems—from automated cloud environments and maintainable delivery pipelines to practical observability and smoother operational workflows.
 
 ## Technical Focus
 
@@ -23,20 +23,23 @@ My background covers both traditional infrastructure and modern cloud-native env
 - CI/CD, Jenkins automation, and deployment workflows.
 - Observability, incident readiness, and recovery planning.
 
-## Featured Work
+## Selected work
 
 - [python](https://github.com/strugi032/python) — Small Python tools for automation, operations, and learning.
-- [kube-image-inventory](https://github.com/strugi032/kube-image-inventory) — Python tool for inspecting container images across Kubernetes workloads.
-- [k8s-examples](https://github.com/strugi032/k8s-examples) — Kubernetes manifests, policies, deployment patterns, and practical cluster examples.
-- [cloud](https://github.com/strugi032/cloud) — Cloud infrastructure notes, examples, and automation patterns.
-- [haproxy-canary-lab](https://github.com/strugi032/haproxy-canary-lab) — HAProxy-based canary deployment lab.
+- [k8s-examples](https://github.com/strugi032/k8s-examples) — Practical Kubernetes manifests, policies, and observability examples
+- [kube-image-inventory](https://github.com/strugi032/kube-image-inventory) — Python tool for inspecting container images across Kubernetes workloads
+- [kind-istio-mtls-lab](https://github.com/strugi032/kind-istio-mtls-lab) — Local Istio workshop covering mTLS, observability, fault injection, and circuit breaking
+- [cloud](https://github.com/strugi032/cloud) — Cloud infrastructure examples, operational guidance, and automation patterns
+- [haproxy-canary-lab](https://github.com/strugi032/haproxy-canary-lab) — Local lab for canary traffic shifting and rollback through the HAProxy Runtime API
 
-## Availability
+## Let's work together
 
-Open to Senior DevOps, Platform Engineering, SRE, and selected consulting opportunities.
+I'm open to Senior DevOps, Platform Engineering, and SRE roles, as well as selected consulting projects.
 
-Professional references and a written recommendation from a former manager are available upon request.
+I can help with Kubernetes, AWS, CI/CD, Terraform, Ansible, Linux operations, Jenkins automation, observability, production readiness, and practical DevOps mentoring.
+
+Recommendation letter available on request.
 
 ## Contact
 
-[strugi032@icloud.com](mailto:strugi032@icloud.com)
+[📧 strugi032@icloud.com](mailto:strugi032@icloud.com)
