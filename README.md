@@ -25,12 +25,12 @@ I enjoy turning complex infrastructure into reliable, understandable systems—f
 
 ## Selected work
 
-- [python](https://github.com/strugi032/python) — Small Python tools for automation, operations, and learning.
-- [k8s-examples](https://github.com/strugi032/k8s-examples) — Practical Kubernetes manifests, policies, and observability examples
-- [kube-image-inventory](https://github.com/strugi032/kube-image-inventory) — Python tool for inspecting container images across Kubernetes workloads
-- [kind-istio-mtls-lab](https://github.com/strugi032/kind-istio-mtls-lab) — Local Istio workshop covering mTLS, observability, fault injection, and circuit breaking
-- [cloud](https://github.com/strugi032/cloud) — Cloud infrastructure examples, operational guidance, and automation patterns
-- [haproxy-canary-lab](https://github.com/strugi032/haproxy-canary-lab) — Local lab for canary traffic shifting and rollback through the HAProxy Runtime API
+- [python](https://github.com/mstrugarevic1/python) — Small Python tools for automation, operations, and learning.
+- [k8s-examples](https://github.com/mstrugarevic1/k8s-examples) — Practical Kubernetes manifests, policies, and observability examples
+- [kube-image-inventory](https://github.com/mstrugarevic1/kube-image-inventory) — Python tool for inspecting container images across Kubernetes workloads
+- [kind-istio-mtls-lab](https://github.com/mstrugarevic1/kind-istio-mtls-lab) — Local Istio workshop covering mTLS, observability, fault injection, and circuit breaking
+- [cloud](https://github.com/mstrugarevic1/cloud) — Cloud infrastructure examples, operational guidance, and automation patterns
+- [haproxy-canary-lab](https://github.com/mstrugarevic1/haproxy-canary-lab) — Local lab for canary traffic shifting and rollback through the HAProxy Runtime API
 
 ## Let's work together
 
