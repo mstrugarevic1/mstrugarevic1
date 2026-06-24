@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.png" alt="Miroslav DevOps header" width="100%">
+  <img src="./headerv2.png" alt="Miroslav DevOps header" width="100%">
 
   # Hi, I'm Miroslav
 
