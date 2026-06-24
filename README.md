@@ -25,6 +25,9 @@ I enjoy turning complex infrastructure into reliable, understandable systems—f
 
 ## Selected work
 
+> [!NOTE]
+> The repositories listed here are mostly learning projects, experiments, and practical examples. They are provided as-is, without warranty, and may not be fully tested. Please review, adapt, and validate any code before using it in your own environment.
+
 - [python](https://github.com/mstrugarevic1/python) — Small Python tools for automation, operations, and learning.
 - [k8s-examples](https://github.com/mstrugarevic1/k8s-examples) — Practical Kubernetes manifests, policies, and observability examples
 - [kube-image-inventory](https://github.com/mstrugarevic1/kube-image-inventory) — Python tool for inspecting container images across Kubernetes workloads
