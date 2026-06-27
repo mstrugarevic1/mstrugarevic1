@@ -5,7 +5,7 @@
 
   **Senior DevOps / Platform Engineer**<br>
 
-  [📧 Email me](mailto:strugi032@icloud.com) · [Explore my work](#selected-work)
+  [📧 Email me](mailto:strugi032@icloud.com) · [Explore my work](#repository-index)
 </div>
 
 ## About me
@@ -23,17 +23,29 @@ I enjoy turning complex infrastructure into reliable, understandable systems—f
 - CI/CD, Jenkins automation, and deployment workflows.
 - Observability, incident readiness, and recovery planning.
 
-## Selected work
+## Repository Index
 
 > [!NOTE]
-> The repositories listed here are mostly learning projects, experiments, and practical examples. They are provided as-is, without warranty, and may not be fully tested. Please review, adapt, and validate any code before using it in your own environment.
+> These repositories are practical portfolio projects, labs, and operational examples. They are written for learning, demonstration, and reference, not as drop-in production systems.
 
-- [python](https://github.com/mstrugarevic1/python) — Small Python tools for automation, operations, and learning.
-- [k8s-examples](https://github.com/mstrugarevic1/k8s-examples) — Practical Kubernetes manifests, policies, and observability examples
-- [kube-image-inventory](https://github.com/mstrugarevic1/kube-image-inventory) — Python tool for inspecting container images across Kubernetes workloads
-- [kind-istio-mtls-lab](https://github.com/mstrugarevic1/kind-istio-mtls-lab) — Local Istio workshop covering mTLS, observability, fault injection, and circuit breaking
-- [cloud](https://github.com/mstrugarevic1/cloud) — Cloud infrastructure examples, operational guidance, and automation patterns
-- [haproxy-canary-lab](https://github.com/mstrugarevic1/haproxy-canary-lab) — Local lab for canary traffic shifting and rollback through the HAProxy Runtime API
+### Kubernetes & Platform Engineering
+
+- [k8s-examples](https://github.com/mstrugarevic1/k8s-examples) — Kubernetes examples covering manifests, policy, namespace onboarding, and observability patterns.
+- [kube-image-inventory](https://github.com/mstrugarevic1/kube-image-inventory) — Kubernetes inventory tool for understanding which container images are running across cluster workloads.
+- [kind-istio-mtls-lab](https://github.com/mstrugarevic1/kind-istio-mtls-lab) — Local Istio lab focused on mTLS, service mesh behavior, traffic visibility, fault injection, and circuit breaking.
+- [haproxy-canary-lab](https://github.com/mstrugarevic1/haproxy-canary-lab) — Local canary deployment lab using HAProxy traffic shifting and rollback through the Runtime API.
+
+### Cloud & AWS Operations
+
+- [cloud](https://github.com/mstrugarevic1/cloud) — Cloud infrastructure examples, operational notes, and automation patterns.
+- [aws-ecs-internal-service-monitor](https://github.com/mstrugarevic1/aws-ecs-internal-service-monitor) — Internal service monitoring application designed around an ECS/Fargate-style architecture.
+- [docs](https://github.com/mstrugarevic1/docs) — Technical notes and reference material for cloud, DevOps, and infrastructure topics.
+
+### Automation & Operational Tools
+
+- [python](https://github.com/mstrugarevic1/python) — Small Python utilities for automation, operations, and practical learning.
+- [ops-diagnostics-toolkit](https://github.com/mstrugarevic1/ops-diagnostics-toolkit) — Read-only Linux diagnostics toolkit for system, network, DNS, TLS, and service checks.
+- [gemini-cli-wrapper](https://github.com/mstrugarevic1/gemini-cli-wrapper) — CLI wrapper for safer local usage patterns around AI coding tools.
 
 ## Let's work together
 
