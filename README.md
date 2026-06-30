@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./header.png" alt="Miroslav Strugarevic DevOps and Platform Engineering header" width="100%">
-</p>
-
 # Miroslav Strugarević
 
 **Senior DevOps / Platform Engineer**
