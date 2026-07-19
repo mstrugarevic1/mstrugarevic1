@@ -4,12 +4,12 @@
 
 I design cloud platforms, delivery pipelines, infrastructure automation, and operational tooling with a focus on maintainability, security, and failure-aware engineering. I have about 15 years of experience in IT, including 10 across DevOps, cloud infrastructure, platform engineering, and production operations. I am interested in Senior DevOps, Platform Engineering, SRE, and Cloud Engineering roles.
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111111)
+![AWS](images/badge-aws.svg)
+![Kubernetes](images/badge-kubernetes.svg)
+![Terraform](images/badge-terraform.svg)
+![GitHub Actions](images/badge-github-actions.svg)
+![Python](images/badge-python.svg)
+![Linux](images/badge-linux.svg)
 
 ## Featured Work
 
